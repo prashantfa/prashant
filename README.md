@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashantfa
+- 👋 Hi, I’m @prashant
 - 👀 I’m interested in reactjs or nodejs
 - 🌱 I’m currently learning both react node
 - 💞️ I’m looking to collaborate on MERN Stack 
